@@ -1,13 +1,17 @@
-- 👋 Hi, I’m @Adimar79
-- 👀 I’m interested in
+# 👋 @Adimar79
+
+Building at the intersection of DeSci, pattern recognition & decentralized systems.
 
 ## 🧬 Current Focus
-- Decentralized Science (Bio Protocol ecosystem)
-- Pattern recognition & AI applications in research
-- Learning: GitHub workflows, open-source contribution
+- **DeSci:** Bio Protocol ecosystem, longevity research, mental health applications
+- **Learning:** GitHub workflows, open-source contribution, Python
+- **Exploring:** AI agents, DAO governance, tokenomics
 
 ## 🔬 Interests
-- Longevity research & mental health applications
-- Open science infrastructure
-- DAO governance & tokenomics
-- Recovery & personal development tech
+Open science infrastructure • Recovery tech • Decentralized research funding
+
+## 📫 Connect
+DeSci Information Project 
+Let's see where we get...
+https://t.me/MyDeSciChannel
+SIMPLEX: https://smp15.simplex.im/a#ISG7YxyluXbkNDySv2OOTovLBVJC0jlOas7_IW7hK-E
