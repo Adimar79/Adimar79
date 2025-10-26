@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @Adimar79
-- 👀 I’m interested in learning...
-- 🌱 I’m currently learning to work with Github
+- 👀 I’m interested in
 
-<!---
-Adimar79/Adimar79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🧬 Current Focus
+- Decentralized Science (Bio Protocol ecosystem)
+- Pattern recognition & AI applications in research
+- Learning: GitHub workflows, open-source contribution
+
+## 🔬 Interests
+- Longevity research & mental health applications
+- Open science infrastructure
+- DAO governance & tokenomics
+- Recovery & personal development tech
